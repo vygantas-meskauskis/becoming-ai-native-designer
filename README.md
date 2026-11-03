@@ -1,5 +1,11 @@
 # Becoming an AI-Native Designer
 
+> **Canonical location:** this course now lives in [learning-library](https://github.com/vygantas-meskauskis/learning-library/tree/main/courses/becoming-ai-native-designer).
+>
+> **[Read Becoming an AI-Native Designer](https://vygantas-meskauskis.github.io/learning-library/courses/becoming-ai-native-designer/)** or [choose another course](https://vygantas-meskauskis.github.io/learning-library/).
+>
+> This repository is archived to preserve its original content and Git history. All future edits belong in `vygantas-meskauskis/learning-library`.
+
 ### A practical guide for mid-to-senior UX/UI designers (October 2026)
 
 > **Who this is for:** a designer who already knows UX/UI and Figma well and wants to work the way the best AI-native designers work today. You'll learn to build design systems that both people and AI can use, connect Figma to code without writing any code yourself, and use AI every day without lowering your standards.
